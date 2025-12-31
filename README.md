@@ -73,11 +73,14 @@
 
 ---
 
+---
+
 ### 📫 Let's Build Your Project
 <p align="center">
   <a href="mailto:ahmadmustafa.dev@gmail.com">
     <img src="https://img.shields.io/badge/Start_Project-ahmadmustafa.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmadmustafa-dev/">
     <img src="https://img.shields.io/badge/Consult_on_LinkedIn-Ahmad_Mustafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -85,12 +88,4 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-🟢_Available_for_High--End_Development-success?style=flat-short&logo=rocket" alt="Status" />
-</div>
-
-<br />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=100&section=footer" width="100%" />
-</p>
-
 </div>
