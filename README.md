@@ -41,7 +41,7 @@
 
 ### 📫 Connect for Collaborations
 [![Email](https://img.shields.io/badge/Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmustafa.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Professional_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/Professional_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmadmustafa-dev)
 
 **Status:** 🟢 *Available for High-Impact Projects & Custom Plugin Development*
 </div>
