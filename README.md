@@ -1,47 +1,47 @@
 <div align="center">
 
-# 👋 Hi there, I'm Ahmad Mustafa!
-### 🚀 Lead Full-Stack Developer | React & PHP Expert
+# ⚡ Ahmad Mustafa
+### 🏛️ Full-Stack Architect & Custom Plugin Specialist
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Mastering+Laravel+Backend;Automating+Business+Growth;Pixel+Perfect+UI/UX)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Solutions;Custom+WordPress+Plugins;Laravel+MVC+Engineering;Scalable+Business+Automation)
 
 ---
 
 ### 🛠️ Professional Tech Stack
 
-**Frontend Engineering**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)](https://skillicons.dev)
+**Frontend Engineering** [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)](https://skillicons.dev)
 
-**Backend & Architecture**
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,wordpress,laravel,git,py)](https://skillicons.dev)
+**Backend & Architecture** [![My Skills](https://skillicons.dev/icons?i=php,mysql,wordpress,laravel,git,py)](https://skillicons.dev)
 
 ---
 
-### 🌱 Current Focus
-**Mastering Laravel Ecosystem** *Currently building enterprise-grade applications focusing on MVC architecture, Eloquent ORM, and secure API design.*
+### 🚀 Specialist Expertise
+**Custom WordPress Plugin Development** *Building bespoke PHP solutions to solve complex business logic, automate workflows, and extend WooCommerce functionality beyond the limits of standard plugins.*
+
+**🌱 Currently Mastering:** `Laravel Ecosystem` • `RESTful API Design` • `Advanced MySQL Optimization`
 
 ---
 
 ### 📊 Engineering Metrics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadmustafa-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmustafa-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadmustafa-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmustafa-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
 </p>
 
 ---
 
-### 🔥 Active Projects
-| Project | Description | Tech Stack |
+### 🔥 Featured Solutions
+| System | Capability | Primary Stack |
 | :--- | :--- | :--- |
-| **Lead-Gen Bot** | 24/7 AI-powered client outreach system. | `Python` `Groq AI` |
-| **Custom Plugins** | Make anytype of custom plugin for clients | `PHP` `HTML` `CSS` `JS` |
-| **Laravel SaaS** | Transitioning legacy PHP systems to modern MVC. | `Laravel` `React` |
+| **Custom Plugins** | Developing logic-heavy WordPress plugins for niche business needs. | `PHP` `WP-Core` `JS` |
+| **Lead-Gen Bot** | 24/7 AI-driven scraper and automated outreach engine. | `Python` `Groq AI` |
+| **Enterprise SaaS** | Modernizing legacy PHP systems into secure Laravel MVC apps. | `Laravel` `React` |
 
 ---
 
-### 📫 Let's Connect
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmustafa.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+### 📫 Connect for Collaborations
+[![Email](https://img.shields.io/badge/Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmustafa.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Professional_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
 
-**Currently open to high-impact freelance collaborations!**
+**Status:** 🟢 *Available for High-Impact Projects & Custom Plugin Development*
 </div>
