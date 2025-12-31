@@ -1,9 +1,9 @@
 <div align="center">
 
 # ⚡ Ahmad Mustafa
-### 🏛️ Full-Stack Web Architect & WordPress Specialist
+### 🏛️ Full-Stack Web Architect & Custom Software Engineer
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=High-Conversion+Landing+Pages;Custom+WordPress+Plugins;E-commerce+Store+Expert;Scalable+Business+Websites)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Custom+Coded+Architectures;Bespoke+WordPress+Plugins;High-Performance+React+Apps;Scalable+Business+Systems)
 
 ---
 
@@ -15,20 +15,23 @@
 
 ---
 
-### 🚀 Premium Digital Services
-**Custom WordPress Plugin Development** *Developing high-performance PHP plugins to solve complex business logic, automate workflows, and extend WooCommerce functionality beyond standard limitations.*
+### 🚀 Specialist Expertise
 
-**🌱 Currently Mastering:** `Laravel Ecosystem` • `Modern MVC Architecture` • `Database Optimization`
+**Custom-Coded Web Solutions** *Building from the ground up using **HTML5, CSS3, JavaScript, Bootstrap, React, and Tailwind CSS**. I deliver lightweight, high-performance portfolios and business websites optimized for speed and SEO.*
+
+**Bespoke WordPress Development** *Engineering custom **WordPress Plugins** and high-conversion E-commerce stores. I specialize in writing clean PHP code to extend **WP-Core** and **WooCommerce** functionality beyond standard limitations.*
+
+**🌱 Currently Mastering:** `Laravel MVC` • `Enterprise Database Design` • `Performance Engineering`
 
 ---
 
 ### 🔥 Featured Solutions & Services
 | Service | Specialized Capability | Tech Stack |
 | :--- | :--- | :--- |
-| **WordPress Plugins** | Bespoke plugin development for niche business requirements. | `PHP` `WP-Core` `AJAX` |
-| **E-commerce Stores** | High-performance WooCommerce & custom retail platforms. | `PHP` `MySQL` `React` |
-| **Business Websites** | Scalable corporate sites with seamless CMS management. | `WordPress` `Tailwind` |
-| **Landing Pages** | High-conversion, pixel-perfect UI for marketing campaigns. | `React` `JS` `Bootstrap` |
+| **WordPress Plugins** | Bespoke plugin engineering for complex business logic. | `PHP` `WP-Core` `AJAX` |
+| **Custom Coded Sites** | Portfolios & Business sites built from the ground up. | `React` `JS` `PHP` |
+| **E-commerce Stores** | High-performance WooCommerce & custom retail platforms. | `WordPress` `React` |
+| **Business Websites** | Scalable corporate solutions with custom CMS integration. | `Laravel` `Tailwind` |
 
 ---
 
@@ -44,5 +47,5 @@
 [![Email](https://img.shields.io/badge/Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmustafa.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Professional_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadmustafa-dev/)
 
-**Status:** 🟢 *Available for New Projects | Custom Plugin & Web Development*
+**Status:** 🟢 *Available for High-End Custom Development & Plugin Architecture*
 </div>
